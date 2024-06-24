@@ -74,3 +74,6 @@ python3 test/test-inception.py
 --fake_image_dir Output-test/
 --filenames_path Datasets/birds/test/filenames.pickle
 ```
+
+## Stage 2 Results
+![Results Stage 2](https://github.com/IliasAlex/text2image/blob/main/stage2.png?raw=true)
