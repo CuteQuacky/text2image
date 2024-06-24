@@ -15,6 +15,7 @@ This project is an image generator that uses text descriptions and generates ima
 - [Training the model](#training-the-model)
 - [Testing the model](#testing-the-model)
 - [Computing inception score](#Computing-inception-score)
+- [Results](#Results)
 
 ## Installation
 
