@@ -22,6 +22,7 @@ This project is an image generator that uses text descriptions and generates ima
 git clone https://github.com/IliasAlex/text2image.git
 ```
 ## Usage
+We used python 3.10
 ```bash
 cd text2image
 python3 -m venv text2image
