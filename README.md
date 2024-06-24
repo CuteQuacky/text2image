@@ -54,6 +54,7 @@ python3 main.py --data_dir Datasets/
 ## Testing the model
 The following script will generate images using the trained generator along with the corresponding captions. 
 Using the test embeddings.
+You can download the pre-trained generators from [here](https://drive.google.com/drive/folders/1el_qwcxf0P3KA4cA0uuqaPVrrmuXBdXb?usp=drive_link)
 
 ```bash
 python3 test/test-demo.py 
