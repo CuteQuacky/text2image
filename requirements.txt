@@ -47,6 +47,7 @@ PyYAML==3.11
 requests==2.32.2
 rich==13.7.1
 sh==2.0.6
+scipy==1.13.1
 six==1.16.0
 sympy==1.12.1
 tensorboard==2.16.2
