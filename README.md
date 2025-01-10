@@ -2,7 +2,7 @@
 Ilias Alexandropoulos, mtn2302
 
 Vasiliki Rentoula, mtn2317
-## Description
+### Description
 
 This project is an image generator that uses text descriptions and generates images based on text. 
 ([Dataset](https://www.vision.caltech.edu/datasets/cub_200_2011/)).
